@@ -19,3 +19,5 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/test', 'SampleController@index');
+
+Route::get('/kecamatan', 'KecamatanController@index');
