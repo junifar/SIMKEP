@@ -23,7 +23,7 @@ class KecamatanController extends Controller
      */
     public function create()
     {
-        //
+        return view('kecamatan.create');
     }
 
     /**

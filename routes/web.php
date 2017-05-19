@@ -21,3 +21,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/test', 'SampleController@index');
 
 Route::get('/kecamatan', 'KecamatanController@index');
+Route::get('/kecamatan/create','KecamatanController@create');

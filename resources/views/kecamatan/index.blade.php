@@ -37,6 +37,7 @@
                             <div class="mailbox-controls">
                                 <!-- /.btn-group -->
                                 <button type="button" class="btn btn-default btn-sm"><i class="fa fa-refresh"></i></button>
+                                <a href="kecamatan/create" class="btn btn-default btn-sm"><i class="fa fa-plus-square"></i></a>
                                 <div class="pull-right">
                                     1-50/200
                                     <div class="btn-group">
